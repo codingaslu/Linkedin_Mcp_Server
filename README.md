@@ -60,7 +60,7 @@ To connect your MCP client to this server, add the following configuration to yo
       "command": "C:/Users/aiany/.local/bin/uv",
       "args": [
         "--directory",
-        "C:/Users/aiany/OneDrive/Desktop/YT Video/linkedin-mcp/project",
+        "C:/Users/aiany/OneDrive/Desktop/linkedin-mcp/project",
         "run",
         "linkedin.py"
       ]
